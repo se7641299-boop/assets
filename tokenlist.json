@@ -1,0 +1,21 @@
+{
+  "name": "USDS Token List",
+  "logoURI": "https://raw.githubusercontent.com/se7641299-boop/usds-assets/main/USDS.png",
+  "keywords": ["usds"],
+  "timestamp": "2026-06-15T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x914fbDaE5e417c9A6d986ac011967bd72f0a7877",
+      "name": "USDS",
+      "symbol": "USDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/se7641299-boop/usds-assets/main/USDS.png"
+    }
+  ]
+}
