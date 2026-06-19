@@ -1,0 +1,9 @@
+{
+  "name": "USDS",
+  "symbol": "USDS",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "USDS token on Ethereum network",
+  "explorer": "https://etherscan.io/token/0x914fbDaE5e417c9A6d986ac011967bd72f0a7877",
+  "id": "0x914fbDaE5e417c9A6d986ac011967bd72f0a7877"
+}
